@@ -10,4 +10,6 @@
     <string name="choose_a_viewer">Choose a viewer</string>
     <string name="open_activity">Open activity</string>
     <string name="return_and_close">Return and close</string>
+    <string name="choose_text">Choose your favorite browser</string>
+    <string name="phone_text">tel: %1$s</string>
 </resources>
